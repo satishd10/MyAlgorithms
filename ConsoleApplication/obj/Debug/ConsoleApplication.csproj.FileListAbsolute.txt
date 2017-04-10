@@ -1,0 +1,8 @@
+E:\Projects\Algorithms\Algorithms\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+E:\Projects\Algorithms\Algorithms\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+E:\Projects\Algorithms\Algorithms\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+E:\Projects\Algorithms\Algorithms\ConsoleApplication\bin\Debug\DataStructures.dll
+E:\Projects\Algorithms\Algorithms\ConsoleApplication\bin\Debug\DataStructures.pdb
+E:\Projects\Algorithms\Algorithms\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\Algorithms\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+E:\Projects\Algorithms\Algorithms\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

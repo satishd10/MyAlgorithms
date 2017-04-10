@@ -1,0 +1,4 @@
+E:\Projects\Algorithms\Algorithms\DataStructures\bin\Debug\DataStructures.dll
+E:\Projects\Algorithms\Algorithms\DataStructures\bin\Debug\DataStructures.pdb
+E:\Projects\Algorithms\Algorithms\DataStructures\obj\Debug\DataStructures.dll
+E:\Projects\Algorithms\Algorithms\DataStructures\obj\Debug\DataStructures.pdb
